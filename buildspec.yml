@@ -7,8 +7,8 @@ env:
 phases:
   build:
     commands:
-      - msbuild $env:MvcApp.csproj /p:TargetFrameworkVersion=v$env:DOTNET_FRAMEWORK /p:Configuration=Release /p:DeployIisAppPath="Default Web Site" /p:PackageAsSingleFile=false /p:OutDir=C:\codebuild\artifacts\ /t:Package
+      - msbuild $env:WebApplication1.csproj /p:TargetFrameworkVersion=v$env:DOTNET_FRAMEWORK /p:Configuration=Release /p:DeployIisAppPath="Default Web Site" /p:PackageAsSingleFile=false /p:OutDir=C:\codebuild\artifacts\ /t:Package
 artifacts:
   files:
     - '**/*'
-  base-directory: 'C:\codebuild\artifacts\_PublishedWebsites\${env:MvcApp}_Package\Archive\'
+  base-directory: 'C:\codebuild\artifacts\_PublishedWebsites\${env:WebApplication1}_Package\Archive\'
