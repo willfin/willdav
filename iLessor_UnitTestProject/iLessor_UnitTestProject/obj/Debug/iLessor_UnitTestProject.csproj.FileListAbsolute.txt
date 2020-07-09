@@ -18,3 +18,7 @@ E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csproj.CopyComplete
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.dll
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.pdb
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csprojAssemblyReference.cache
