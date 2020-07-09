@@ -13,7 +13,7 @@ namespace iLessor_UnitTestProject
             int secondValue = 2;
             int sum = firstValue/secondValue;
 
-            Assert.AreEqual(12, sum);
+            Assert.AreEqual(10, sum);
         }
 
         [TestMethod]
