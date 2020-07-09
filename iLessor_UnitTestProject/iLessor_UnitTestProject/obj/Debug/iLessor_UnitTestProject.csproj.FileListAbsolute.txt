@@ -1,0 +1,13 @@
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\iLessor_UnitTestProject.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\iLessor_UnitTestProject.pdb
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csproj.CoreCompileInputs.cache
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csproj.CopyComplete
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.dll
+E:\TUT\Jenkins\UnitTestProject\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.pdb

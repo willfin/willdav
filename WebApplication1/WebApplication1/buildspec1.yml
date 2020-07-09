@@ -1,0 +1,14 @@
+﻿version: 0.1
+
+env:
+  variables:
+    PROJECT: AspNetMvcSampleApp
+    DOTNET_FRAMEWORK: 4.6.1
+phases:
+  build:
+    commands:
+      - msbuild $env:WebApplication1.csproj /p:TargetFrameworkVersion=4.6.1 /p:Configuration=Release /p:DeployIisAppPath="Default Web Site" /p:PackageAsSingleFile=false /p:OutDir=C:\codebuild\artifacts\ /t:Package
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'C:\codebuild\artifacts\_PublishedWebsites\${env:WebApplication1}_Package\Archive\'
