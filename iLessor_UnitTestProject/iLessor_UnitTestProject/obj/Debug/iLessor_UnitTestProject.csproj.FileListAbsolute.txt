@@ -18,12 +18,6 @@ E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csproj.CopyComplete
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.dll
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.pdb
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Mono.Cecil.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Mono.Cecil.Mdb.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Mono.Cecil.Pdb.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Mono.Cecil.Rocks.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.core.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.core.interfaces.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.util.dll
-E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csprojAssemblyReference.cache
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
