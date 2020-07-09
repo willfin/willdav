@@ -26,3 +26,4 @@ E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\Mono.Cec
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.core.dll
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.core.interfaces.dll
 E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\bin\Debug\nunit.util.dll
+E:\TUT\GitHub\iLessor_UnitTestProject\iLessor_UnitTestProject\obj\Debug\iLessor_UnitTestProject.csprojAssemblyReference.cache
